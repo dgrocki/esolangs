@@ -1,0 +1,41 @@
+Whitespace online compiler
+https://vii5ard.github.io/whitespace/
+
+Whitespace docs
+http://web.archive.org/web/20150623025348/http://compsoc.dur.ac.uk/whitespace/
+
+Whitespace github with compilers
+https://github.com/hostilefork/whitespacers
+
+
+Arnold C online compiler
+
+https://tio.run/#arnoldc
+
+Arnold C github
+
+https://github.com/lhartikk/ArnoldC
+
+
+
+Turing complete 
+
+-can preform same operations as a universal turing machine 
+
+
+Brainfuck explained
+
+https://www.muppetlabs.com/~breadbox/bf/
+
+Brainfuck online compiler
+
+https://www.tutorialspoint.com/execute_brainfk_online.php
+
+
+
+
+Groot
+
+https://github.com/thiagopnts/groot
+
+
